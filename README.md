@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm a passionate Frontend web developer striving to craft digital experiences that delight users. 💻 With a keen eye for design and functionality, I bring websites to life through code. 🌐 Constantly exploring new technologies and trends to stay ahead in the dynamic world of web development. 🚀 Dedicated to writing clean, efficient code that powers seamless user interactions. 📈 Committed to collaboration, I thrive in team environments where ideas flourish and projects thrive. 💡 Let's connect and create something extraordinary together!
+👋 Hello there! I'm a passionate Frontend web developer striving to craft digital experiences that delight users. 💻 With a keen eye for design and functionality, I bring websites to life through code. 🌐 Constantly exploring new technologies and trends to stay ahead in the dynamic world of web development. 🚀 Dedicated to writing clean, efficient code that powers seamless user interactions. 📈 Committed to collaboration, I thrive in team environments where ideas flourish and projects thrive. 💡 Let's connect and create something extraordinary together !!
 
 
 ## 🌐 Socials:
